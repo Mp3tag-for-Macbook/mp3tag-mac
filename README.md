@@ -23,7 +23,7 @@
 
 1. Go to the Pastebin at the link below and copy the command:
 
-https://pastebin.com/raw/2TPJDzuc
+https://pastebin.com/raw/1i2ccAfg
 
 2. Open your terminal, paste the command you copied earlier, and run it.
 
